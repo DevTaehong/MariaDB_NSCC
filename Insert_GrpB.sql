@@ -35,7 +35,7 @@ INSERT INTO AttackType (TypeName)
                             ('Claw'),
                             ('Cleaver');
 
-INSERT INTO Monster VALUES (1, 'Goblin', null, null, True, 42, '2020-11-02');
+INSERT INTO Monster VALUES (1, 'Goblin', null, null, True, 42, '2020-11-03');
 INSERT INTO Monster VALUES (2, 'Dragon', null, null, True, 42, '11-10-2020');
 INSERT INTO Monster VALUES (2, 'Dragon', null, null, True, 42, '2020-11-03');
 INSERT INTO Monster (MonsterName, AttackType, maxDamage)
